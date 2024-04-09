@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mym3dNrjMRL3nuO2doucw5xAocV0ich1jJsiZFBwQI8qqK0ZqGjfwuHdk/hB5y2/cu7jf6oFlelqLI2rxAwu6g==",
+  "dgSpecHash": "5W+fogBNgkPY0hP3rLkgCgrwAHbzg/iRmAJJ4rM1tJy8wCwlGB19WePEcZ8y7E++xoDzOWTNKIvc+A+aAOQVlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\תיכנות הכל\\תרגיל בית הדסים 4\\CoronaCare_HUb_exe_2\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\תיכנות הכל\\haddasim_4_exe_Tova_Golimstok\\CoronaCare_HUb_exe_2\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

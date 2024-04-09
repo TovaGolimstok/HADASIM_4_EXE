@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gdXMXKCz8JR/5QGXTPFy9swLgYqsxBFy+f0uZPWjP6MnwNz7wlwrkxkgKGmKwRtYsj8LDwftygzKtCv3pTBVBQ==",
+  "dgSpecHash": "gsmJYPasIrGu/oC3r0+mXSK3NtjkS0mO4wZofdT84K+cD6oX75kmj8nscDKS4UQ0GHVf/rDBbe/vfTrMTJ7h5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\תיכנות הכל\\תרגיל בית הדסים 4\\CoronaCare_HUb_exe_2\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\תיכנות הכל\\haddasim_4_exe_Tova_Golimstok\\CoronaCare_HUb_exe_2\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
